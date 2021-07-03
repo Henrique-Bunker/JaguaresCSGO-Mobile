@@ -3,6 +3,11 @@ This project aim to create a mobile solution for a CSGO Community Server and wor
 
 This project uses data from the main web platform https://jaguarescsgo.com.br wich at this moment is still private, so source code wont be available.
 
+## Technologies
+Project is created with:
+- Expo
+- React Native
+
 ## Project still in development
 
 That means not everything is ment to be in the final release if it comes to it.
