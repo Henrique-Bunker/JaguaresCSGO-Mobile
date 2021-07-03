@@ -21,14 +21,14 @@ That means not everything is ment to be in the final release if it comes to it.
 - Links to Whatsapp, Discord and Facebook
 - ADS
 
-## Items Still in development
+### Items Still in development
 
 - FAQ
 - Report Screen
 - Dark Theme
 - Refresh Buttom
   
-## Known items in need to be fixed
+### Known items in need to be fixed
 
 - Logout doesnt fully works needing close and re-open the app to go back to login screen
 
